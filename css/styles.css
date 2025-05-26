@@ -44,3 +44,29 @@
     border-radius: 7px;
     backdrop-filter: blur(7px);
 }
+
+.hero-text{
+    position: relative;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+
+    & p {
+        text-wrap: balance !important;
+    }
+
+}
+.arrow {
+    display: inline-block;
+    animation: arrow 1s infinite;
+}
+
+.btn-hero:hover .arrow {
+    animation: arrow 1s infinite ;
+}
+
