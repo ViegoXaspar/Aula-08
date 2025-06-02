@@ -240,3 +240,86 @@ export const shows = [{
         banner: './images/img0.jpg'
     }
 ];
+
+/* AAAAAAAAAAAAAA      objeto da geleria       AAAAAAAAAAAAAAAA */
+export const galleryImages = [{
+        imagem: './images/img0.jpg',
+        descricao: 'Palco iluminado com guitarras potentes'
+    },
+    {
+        imagem: './images/img3.jpg',
+        descricao: 'Multidão cantando refrão com força'
+    },
+    {
+        imagem: './images/img7.jpg',
+        descricao: 'Banda tocando sob luz vermelha'
+    },
+    {
+        imagem: './images/img8.jpg',
+        descricao: 'Bateria vibrando no solo pesado'
+    },
+    {
+        imagem: './images/img9.jpg',
+        descricao: 'Luzes piscando ao som intenso'
+    },
+    {
+        imagem: './images/img10.jpg',
+        descricao: 'Vocalista gritando com emoção pura'
+    },
+    {
+        imagem: './images/img11.jpg',
+        descricao: 'Guitarrista fazendo solo eletrizante'
+    },
+    {
+        imagem: './images/img12.jpg',
+        descricao: 'Público pulando em ritmo frenético'
+    },
+    {
+        imagem: './images/img1.jpg',
+        descricao: 'Show ao vivo com energia explosiva'
+    },
+    {
+        imagem: './images/img13.jpg',
+        descricao: 'Amplificadores vibrando com som distorcido'
+    },
+    {
+        imagem: './images/img2.jpg',
+        descricao: 'Fãs levantando mãos com empolgação'
+    },
+    {
+        imagem: './images/img14.jpg',
+        descricao: 'Fumaça e luzes no palco'
+    },
+    {
+        imagem: './images/img6.jpg',
+        descricao: 'Som alto dominando o ambiente'
+    },
+    {
+        imagem: './images/img15.jpg',
+        descricao: 'Mosh pit agitado durante refrão'
+    },
+    {
+        imagem: './images/img16.jpg',
+        descricao: 'Baixo pulsando com batida pesada'
+    },
+    {
+        imagem: './images/img4.jpg',
+        descricao: 'Camisetas pretas e cabelos longos'
+    },
+    {
+        imagem: './images/img17.jpg',
+        descricao: 'Banda clássica reunida em palco'
+    },
+    {
+        imagem: './images/img18.jpg',
+        descricao: 'Fogos de artifício encerrando show'
+    },
+    {
+        imagem: './images/img5.jpg',
+        descricao: 'Turnê internacional passando pelo Brasil'
+    },
+    {
+        imagem: './images/img19.jpg',
+        descricao: 'Fãs gritando pedindo mais música'
+    }
+];
